@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GHALIB-PC</Machine>
+    <WindowsUser>Ghalib Saleem</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ec50abd0-1e3b-4142-9f4e-657cca7ae7cb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.exe">
+      <PackagePath>Scientific Calci.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\bin\Release\CalculationMethod.dll">
+      <PackagePath>CalculationMethod.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\alpha.png">
+      <PackagePath>Assets\Constant\alpha.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\Avagadro.png">
+      <PackagePath>Assets\Constant\Avagadro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\G.png">
+      <PackagePath>Assets\Constant\G.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\pi.png">
+      <PackagePath>Assets\Constant\pi.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\small g.png">
+      <PackagePath>Assets\Constant\small g.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\Speed of light.png">
+      <PackagePath>Assets\Constant\Speed of light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\Calculator.png">
+      <PackagePath>Assets\Pictures\Calculator.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\conversion.png">
+      <PackagePath>Assets\Pictures\conversion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\equation.png">
+      <PackagePath>Assets\Pictures\equation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\function.png">
+      <PackagePath>Assets\Pictures\function.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\matrix.png">
+      <PackagePath>Assets\Pictures\matrix.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\table.png">
+      <PackagePath>Assets\Pictures\table.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\vector.png">
+      <PackagePath>Assets\Pictures\vector.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Constant\epsilon.gif">
+      <PackagePath>Assets\Constant\epsilon.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\base_n.jpg">
+      <PackagePath>Assets\Pictures\base_n.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Assets\Pictures\formulas.jpg">
+      <PackagePath>Assets\Pictures\formulas.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Base-N.xbf">
+      <PackagePath>Base-N.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Conversion.xbf">
+      <PackagePath>Conversion.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Equationsxaml.xbf">
+      <PackagePath>Equationsxaml.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Formulas.xbf">
+      <PackagePath>Formulas.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\FunctionTablexaml.xbf">
+      <PackagePath>FunctionTablexaml.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\MatrixModel\MatrixView.xbf">
+      <PackagePath>MatrixModel\MatrixView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Vectors.xbf">
+      <PackagePath>Vectors.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.xr.xml">
+      <PackagePath>Scientific Calci.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

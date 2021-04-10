@@ -1,0 +1,32 @@
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\App.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\App.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\MainPage.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\MainPage.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\App.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\App.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\App.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\MainPage.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\Scientific Calci.xr.xml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\Scientific Calci.exe
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\Scientific Calci.pdb
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\resources.pri
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\AppxManifest.xml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Debug\Scientific Calci.build.appxrecipe
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\MainPage.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\MainPage.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\Scientific Calci.exe
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\Scientific Calci.pdb
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\priconfig.xml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\priconfig.xml.intermediate
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\layout.resfiles
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\layout.resfiles.intermediate
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\resources.resfiles
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\resources.resfiles.intermediate
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\pri.resfiles
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\pri.resfiles.intermediate
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\qualifiers.txt
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\ProjectArchitectures.txt

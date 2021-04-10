@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="52607GhalibSaleem.ScientificCalci" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="About.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/About.xbf">
+				<Candidate type="Path">
+					<Value>About.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Base-N.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Base-N.xbf">
+				<Candidate type="Path">
+					<Value>Base-N.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BlankPage1.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/BlankPage1.xbf">
+				<Candidate type="Path">
+					<Value>BlankPage1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Conversion.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Conversion.xbf">
+				<Candidate type="Path">
+					<Value>Conversion.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Equationsxaml.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Equationsxaml.xbf">
+				<Candidate type="Path">
+					<Value>Equationsxaml.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Formulas.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Formulas.xbf">
+				<Candidate type="Path">
+					<Value>Formulas.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FunctionTablexaml.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/FunctionTablexaml.xbf">
+				<Candidate type="Path">
+					<Value>FunctionTablexaml.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Scientific Calci.xr.xml" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Scientific%20Calci.xr.xml">
+				<Candidate type="Path">
+					<Value>Scientific Calci.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StoreManifest.xml" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/StoreManifest.xml">
+				<Candidate type="Path">
+					<Value>StoreManifest.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Vectors.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Vectors.xbf">
+				<Candidate type="Path">
+					<Value>Vectors.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Constant">
+					<NamedResource name="alpha.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/alpha.png">
+						<Candidate type="Path">
+							<Value>Assets\Constant\alpha.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Avagadro.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/Avagadro.png">
+						<Candidate type="Path">
+							<Value>Assets\Constant\Avagadro.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="epsilon.gif" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/epsilon.gif">
+						<Candidate type="Path">
+							<Value>Assets\Constant\epsilon.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="G.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/G.png">
+						<Candidate type="Path">
+							<Value>Assets\Constant\G.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pi.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/pi.png">
+						<Candidate type="Path">
+							<Value>Assets\Constant\pi.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="small g.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/small%20g.png">
+						<Candidate type="Path">
+							<Value>Assets\Constant\small g.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Speed of light.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Constant/Speed%20of%20light.png">
+						<Candidate type="Path">
+							<Value>Assets\Constant\Speed of light.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Pictures">
+					<NamedResource name="base_n.jpg" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/base_n.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\base_n.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Calculator.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/Calculator.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\Calculator.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="conversion.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/conversion.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\conversion.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="equation.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/equation.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\equation.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="formulas.jpg" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/formulas.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\formulas.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="function.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/function.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\function.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="matrix.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/matrix.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\matrix.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="table.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/table.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\table.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="vector.png" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/Assets/Pictures/vector.png">
+						<Candidate type="Path">
+							<Value>Assets\Pictures\vector.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="MatrixModel">
+				<NamedResource name="MatrixView.xbf" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Files/MatrixModel/MatrixView.xbf">
+					<Candidate type="Path">
+						<Value>MatrixModel\MatrixView.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="Acre" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Acre">
+				<Candidate type="String">
+					<Value>4046.856435</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Celsius" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Celsius">
+				<Candidate type="String">
+					<Value>274.15</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CentiMeters" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/CentiMeters">
+				<Candidate type="String">
+					<Value>100</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cubic CentiMeters" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Cubic%20CentiMeters">
+				<Candidate type="String">
+					<Value>1000000</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cubic Foot" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Cubic%20Foot">
+				<Candidate type="String">
+					<Value>35.314666721</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cubic Meters" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Cubic%20Meters">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Days" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Days">
+				<Candidate type="String">
+					<Value>86400</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Degree" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Degree">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Fahrenheit" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Fahrenheit">
+				<Candidate type="String">
+					<Value>255.927778</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Feet" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Feet">
+				<Candidate type="String">
+					<Value>0.3048</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Gallons(US)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Gallons%28US%29">
+				<Candidate type="String">
+					<Value>264.17205236</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Galons(UK)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Galons%28UK%29">
+				<Candidate type="String">
+					<Value>219.9692483</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Gradians" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Gradians">
+				<Candidate type="String">
+					<Value>0</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Grams" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Grams">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Hours" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Hours">
+				<Candidate type="String">
+					<Value>3600</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Inches" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Inches">
+				<Candidate type="String">
+					<Value>0.0254</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Kelvin" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Kelvin">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KiloGrams" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/KiloGrams">
+				<Candidate type="String">
+					<Value>1000</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KiloMeters" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/KiloMeters">
+				<Candidate type="String">
+					<Value>0.001</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Liters" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Liters">
+				<Candidate type="String">
+					<Value>1000</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Meters" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Meters">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Miles" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Miles">
+				<Candidate type="String">
+					<Value>1609.344002</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MilliSeconds" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/MilliSeconds">
+				<Candidate type="String">
+					<Value>0.001</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Minutes" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Minutes">
+				<Candidate type="String">
+					<Value>60</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MPH" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/MPH">
+				<Candidate type="String">
+					<Value>1.609344</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MTons" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/MTons">
+				<Candidate type="String">
+					<Value>1000000.001</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Ounces" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Ounces">
+				<Candidate type="String">
+					<Value>28.34952315</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Ounces(UK)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Ounces%28UK%29">
+				<Candidate type="String">
+					<Value>35195.076728</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Ounces(US)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Ounces%28US%29">
+				<Candidate type="String">
+					<Value>33814.022701</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Pints(UK)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Pints%28UK%29">
+				<Candidate type="String">
+					<Value>1759.7539864</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Pounds" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Pounds">
+				<Candidate type="String">
+					<Value>453.5923704</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Quarts" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Quarts">
+				<Candidate type="String">
+					<Value>879.8769932</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Radians" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Radians">
+				<Candidate type="String">
+					<Value>57.29577951</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Seconds" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Seconds">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqCm" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/SqCm">
+				<Candidate type="String">
+					<Value>0.0001</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Sqft" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Sqft">
+				<Candidate type="String">
+					<Value>0.09290304</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Sqln" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Sqln">
+				<Candidate type="String">
+					<Value>0.00064516</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqM" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/SqM">
+				<Candidate type="String">
+					<Value>1</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqMi" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/SqMi">
+				<Candidate type="String">
+					<Value>2586688.118</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqMm" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/SqMm">
+				<Candidate type="String">
+					<Value>0.000001</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqYard" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/SqYard">
+				<Candidate type="String">
+					<Value>0.836127363</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Tons(UK)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Tons%28UK%29">
+				<Candidate type="String">
+					<Value>1016046.91</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Tons(US)" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Tons%28US%29">
+				<Candidate type="String">
+					<Value>907184.7408</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Yard" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Yard">
+				<Candidate type="String">
+					<Value>0.914400001</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Years" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Years">
+				<Candidate type="String">
+					<Value>31536000</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Km">
+				<NamedResource name="H" uri="ms-resource://52607GhalibSaleem.ScientificCalci/Resources/Km/H">
+					<Candidate type="String">
+						<Value>1</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="Scientific_Calci.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Scientific_Calci"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Scientific Calci +" TextAlignment="Center" FontSize="50" />
+
+
+        <TextBlock Grid.Row="1" FontFamily="Buxton Sketch" TextWrapping="Wrap" Text="-&gt;Integartion          
+                                                     -&gt;Differentiation                                                 -&gt;Vector Calculation                                                  -&gt;Unit Conversion                                                 -&gt;Table Formation                                                            -&gt;Trigonometric  Function                                -&gt;Scientific Constant                                           -&gt;Equations Calulation                                        -&gt;Base-N Calculation                                                                                        -&gt;Logarithmic Function                                             -&gt;Calculation of various expression                               -&gt;And many more  are in this calculator which help you in day to daily life .    " FontSize="24" />
+        <TextBlock Grid.Row="2" Text="Developed BY : Ghalib Saleem" TextAlignment="Center" FontSize="25" FontFamily="Buxton Sketch"/>
+        <!--<TextBlock Grid.Row="3" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Hyperlink NavigateUri="http://www.windowsphone.com/s?appid=a1bf3db9-6718-4c34-aa90-f81377eca6f6">
+                Rate &amp; Review
+            </Hyperlink>
+        </TextBlock>-->
+        <Button Content="Rate &amp; Review" Background="{StaticResource BackButtonPointerOverBackgroundThemeBrush}" Click="dc" Grid.Row="3" HorizontalAlignment="Center"/>
+    </Grid>
+</Page>

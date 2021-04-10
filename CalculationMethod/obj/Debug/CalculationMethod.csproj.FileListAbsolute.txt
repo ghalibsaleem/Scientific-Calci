@@ -1,0 +1,5 @@
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\bin\Debug\CalculationMethod.dll
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\bin\Debug\CalculationMethod.pdb
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\obj\Debug\CalculationMethod.csprojResolveAssemblyReference.cache
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\obj\Debug\CalculationMethod.dll
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\obj\Debug\CalculationMethod.pdb

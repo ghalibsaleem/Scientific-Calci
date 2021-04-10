@@ -1,0 +1,93 @@
+﻿<Page
+    x:Class="Scientific_Calci.Conversion"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Scientific_Calci"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+        
+            
+        
+    </Page.Resources>
+    
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <ComboBox x:ConnectionId='1' x:Name="conversions"
+            HorizontalAlignment="Center" 
+            Height="640" 
+            BorderThickness="0"
+            VerticalAlignment="Top"
+            Header="Conversions"
+            Width="360" 
+            SelectedIndex="0"
+            Background="{ThemeResource ComboBoxDisabledBorderThemeBrush}"
+                                                  >
+                <x:String>Length</x:String>
+                <x:String>Temperature</x:String>
+                <x:String>Weight</x:String>
+                <x:String>Speed</x:String>
+                <x:String>Time</x:String>
+                <x:String>Angle</x:String>
+                <x:String>Volume</x:String>
+                <x:String>Area</x:String>
+        </ComboBox>
+        <Grid Grid.Row="1">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="1.5*"/>
+            </Grid.RowDefinitions>
+            <ComboBox x:ConnectionId='2' x:Name="unit1"
+                      Margin="5"
+                      
+                      Grid.RowSpan="2"
+                                                      
+                      VerticalAlignment="Top"
+                      SelectedIndex="0"
+                      Background="{ThemeResource ComboBoxDisabledBorderThemeBrush}"
+                      BorderThickness="0">
+                <x:String>Inches</x:String>
+                <x:String>Feet</x:String>
+                <x:String>Yard</x:String>
+                <x:String>Miles</x:String>
+                <x:String>CentiMeters</x:String>
+                <x:String>Meters</x:String>
+                <x:String>KiloMeters</x:String>
+            </ComboBox>
+            <ComboBox x:ConnectionId='3' x:Name="unit2"
+                      Grid.Row="3"
+                      SelectedIndex="0"
+                                                      
+                     Grid.Column="1" Margin="5" VerticalAlignment="Top"
+                      Background="{ThemeResource ComboBoxDisabledBorderThemeBrush}"
+                      BorderThickness="0">
+                <x:String>Inches</x:String>
+                <x:String>Feet</x:String>
+                <x:String>Yard</x:String>
+                <x:String>Miles</x:String>
+                <x:String>CentiMeters</x:String>
+                <x:String>Meters</x:String>
+                <x:String>KiloMeters</x:String>
+            </ComboBox>
+            <TextBox x:ConnectionId='4' x:Name="unit1_text"                                                                    InputScope="Number" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="0" FontSize="30" Grid.Row="1" Margin="5"></TextBox>
+            <TextBox x:ConnectionId='5' x:Name="unit2_text"                                                                    InputScope="Number" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Column="1" FontSize="30" Grid.Row="4" Margin="5"></TextBox>
+        </Grid>
+        
+
+       
+    </Grid>
+</Page>
+

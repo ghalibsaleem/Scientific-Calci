@@ -1,0 +1,2 @@
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\CalculationMethod.csproj;neutral
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\Scientific Calci +.csproj;neutral

@@ -1,0 +1,19 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\split.pri"			"resources.pri"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Scientific Calci.xr.xml"			"Scientific Calci.xr.xml"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Scientific Calci.exe"			"Scientific Calci.exe"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"
+"C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Debug\PackageLayout\Assets\Buttons\back.png"			"Assets\Buttons\back.png"

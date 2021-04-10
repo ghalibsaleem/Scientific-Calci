@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci +_2.1.5.11_Bundle\Scientific Calci +_2.1.5.11_AnyCPU.appx
+SymbolPackage=C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\AppPackages\Scientific Calci +_2.1.5.11_Test\Scientific Calci +_2.1.5.11_AnyCPU.appxsym
+ResourcePack=C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci +_2.1.5.11_Bundle\Scientific Calci +_2.1.5.11_scale-100.appx
+ResourcePack=C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci +_2.1.5.11_Bundle\Scientific Calci +_2.1.5.11_scale-140.appx

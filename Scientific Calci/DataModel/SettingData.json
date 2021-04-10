@@ -1,0 +1,21 @@
+﻿{
+    "Settings": [
+        {
+            "UniqueId": "Angle",
+            "item":"Degree"
+        },
+        {
+            "UniqueId": "Memory",
+            "item":"0.0"
+        },
+        {
+            "UniqueId": "Shift",
+            "item":"on"
+        },
+        {
+            "UniqueId": "Rating",
+            "item":"0"
+        }
+        
+    ]
+}

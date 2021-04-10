@@ -1,0 +1,225 @@
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\App.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\MainPage.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.xr.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.exe
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.pdb
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\resources.pri
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\AppxManifest.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci +.build.appxrecipe
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.g.i.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.g.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.i.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\XamlTypeInfo.g.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.xaml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.xaml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\XamlSaveStateFile.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.exe
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.pdb
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\ProjectArchitectures.txt
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\About.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Base-N.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Conversion.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Equationsxaml.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\FunctionTablexaml.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Vectors.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\About.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\About.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Base-N.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Base-N.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Conversion.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Conversion.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Vectors.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Vectors.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Base-N.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Conversion.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Vectors.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Base-N.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Conversion.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Vectors.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\About.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\About.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Formulas.xbf
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Formulas.g.i.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Formulas.g.cs
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Formulas.xaml
+C:\Users\ghalib\Documents\Visual Studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Formulas.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\App.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\About.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Base-N.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Conversion.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Equationsxaml.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Formulas.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\FunctionTablexaml.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\MainPage.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Vectors.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.xr.xml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.exe
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.pdb
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\resources.pri
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\AppxManifest.xml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci +.build.appxrecipe
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\App.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\App.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\About.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\About.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\XamlTypeInfo.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\App.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\About.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\App.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\About.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\XamlSaveStateFile.xml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.exe
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.pdb
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml.intermediate
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles.intermediate
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles.intermediate
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles.intermediate
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt.intermediate
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\ProjectArchitectures.txt
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\BlankPage1.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\bin\Release\MatrixModel\MatrixView.xbf
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.g.i.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.g.cs
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.xaml
+C:\Users\ghalib\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\App.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\About.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Base-N.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\BlankPage1.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Conversion.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Equationsxaml.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Formulas.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\FunctionTablexaml.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\MainPage.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\MatrixModel\MatrixView.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Vectors.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.xr.xml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.exe
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.pdb
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\resources.pri
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\AppxManifest.xml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci +.build.appxrecipe
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\App.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\App.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\About.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\About.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.g.i.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\App.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\About.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\App.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\About.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Base-N.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\BlankPage1.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Conversion.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Equationsxaml.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Formulas.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\FunctionTablexaml.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MatrixModel\MatrixView.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Vectors.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\XamlSaveStateFile.xml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.xaml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MainPage.xbf
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.exe
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.pdb
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml.intermediate
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles.intermediate
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles.intermediate
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles.intermediate
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt.intermediate
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\ProjectArchitectures.txt
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci +.csprojResolveAssemblyReference.cache
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci +.csproj.GenerateResource.Cache
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\CalculationMethod.dll
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\Scientific Calci\bin\Release\CalculationMethod.pdb

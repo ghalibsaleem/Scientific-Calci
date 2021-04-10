@@ -1,0 +1,4 @@
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\bin\Release\CalculationMethod.dll
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\bin\Release\CalculationMethod.pdb
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\obj\Release\CalculationMethod.dll
+C:\Users\Ghalib Saleem\Documents\Scientific Calci\CalculationMethod\obj\Release\CalculationMethod.pdb

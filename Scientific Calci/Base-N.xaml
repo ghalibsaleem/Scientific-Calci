@@ -1,0 +1,570 @@
+﻿<Page
+    x:Class="Scientific_Calci.Base_N"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Scientific_Calci"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Binary" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50"/>
+            <TextBox x:Name="Binary_no"
+                     GotFocus="Binary_no_GotFocus"
+                     IsReadOnly="True" Text="0"
+                     TextChanged="binary_TextChanged"
+                     FontSize="25" HorizontalAlignment="Center" 
+                     VerticalAlignment="Center"
+                     Width="120" Margin="0,50,0,0"/>
+        
+            <TextBlock Grid.Column="1" Text="Decimal" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50"/>
+            <TextBox x:Name="Decimal_no" 
+                     GotFocus="Decimal_no_GotFocus" 
+                     IsReadOnly="True"  Text="0"
+                     Grid.Column="1" 
+                     TextChanged="decimal_TextChanged" 
+                     FontSize="25"
+                     HorizontalAlignment="Center"
+                     VerticalAlignment="Center"
+                     Width="120" Margin="0,50,0,0"/>
+
+            <TextBlock Text="HexaDecimal" Grid.Column="1" Grid.Row="1" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50"/>
+            <TextBox x:Name="hexadecimal_no" 
+                     GotFocus="hexadecimal_no_GotFocus" 
+                     IsReadOnly="True"  Text="0" 
+                     Grid.Column="1" 
+                     Grid.Row="1" 
+                     TextChanged="hexadecimal_TextChanged"
+                     FontSize="25"
+                     HorizontalAlignment="Center"
+                     VerticalAlignment="Center" 
+                     Width="120" Margin="0,50,0,0"/>
+
+            <TextBlock Text="Octal" Grid.Column="0" Grid.Row="1" FontSize="30" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50"/>
+            <TextBox x:Name="octal_no"
+                     GotFocus="octal_no_GotFocus"
+                     Grid.Column="0" 
+                     IsReadOnly="True" 
+                     Text="0" 
+                     Grid.Row="1" 
+                     TextChanged="octal_TextChanged"
+                     FontSize="25" 
+                     HorizontalAlignment="Center"
+                     VerticalAlignment="Center" 
+                     InputScope="Number"
+                     Width="120"
+                     Margin="0,50,0,0"/>
+        </Grid>
+        
+        <Grid x:Name="BinaryKeyboard" Visibility="Collapsed" Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" 
+                    Content="clear" 
+                    Click="clear"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+                <Button Grid.Column="1" 
+                    Content="&#8592;" 
+                    Click="backspace"
+                    FontSize="50" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            </Grid>
+            <Button Grid.Row="1" 
+                    Content="1" 
+                    Click="one"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="20"/>
+            <Button Grid.Row="2" 
+                    Content="0" 
+                    Click="zero"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="20"/>
+        </Grid>
+        <Grid x:Name="DecimalKeyboard" Visibility="Collapsed" Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" 
+                    Grid.Row="0"
+                    Content="1" 
+                    Click="one"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1" 
+                    Grid.Row="0"
+                    Content="2" 
+                    Click="two"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2" 
+                    Content="3" 
+                    Click="three"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="0" 
+                    Grid.Row="1"
+                    Content="4" 
+                    Click="four"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1"
+                    Grid.Row="1"
+                    Content="5" 
+                    Click="five"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2"
+                    Grid.Row="1"
+                    Content="6" 
+                    Click="six"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="0"
+                    Grid.Row="2"
+                    Content="7" 
+                    Click="seven"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1"
+                    Grid.Row="2"
+                    Content="8" 
+                    Click="eight"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2"
+                    Grid.Row="2"
+                    Content="9" 
+                    Click="nine"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="0"
+                    Grid.Row="3"
+                    Content="clear" 
+                    Click="clear"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1"
+                    Grid.Row="3"
+                    Content="0" 
+                    Click="zero"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2"
+                    Grid.Row="3"
+                    Content="&#8592;" 
+                    Click="backspace"
+                    FontSize="40" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+
+        </Grid>
+
+        <Grid x:Name="OctalKeyboard" Visibility="Collapsed" Grid.Row="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" 
+                    Grid.Row="0"
+                    Content="1" 
+                    Click="one"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1" 
+                    Grid.Row="0"
+                    Content="2" 
+                    Click="two"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2" 
+                    Content="3" 
+                    Click="three"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="0" 
+                    Grid.Row="1"
+                    Content="4" 
+                    Click="four"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1"
+                    Grid.Row="1"
+                    Content="5" 
+                    Click="five"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2"
+                    Grid.Row="1"
+                    Content="6" 
+                    Click="six"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1"
+                    Grid.Row="2"
+                    Content="7" 
+                    Click="seven"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="0"
+                    Grid.Row="3"
+                    Content="clear" 
+                    Click="clear"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="1"
+                    Grid.Row="3"
+                    Content="0" 
+                    Click="zero"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+            <Button Grid.Column="2"
+                    Grid.Row="3"
+                    Content="&#8592;" 
+                    Click="backspace"
+                    FontSize="40" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="10"/>
+
+        </Grid>
+
+        <Grid x:Name="HexaDecimalKeyboard" Margin="10" Visibility="Collapsed" Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" 
+                    Grid.Row="0"
+                    Content="1" 
+                    Click="one"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="1" 
+                    Grid.Row="0"
+                    Content="2" 
+                    Click="two"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="2" 
+                    Content="3" 
+                    Click="three"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="0" 
+                    Grid.Row="1"
+                    Content="4" 
+                    Click="four"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="1"
+                    Grid.Row="1"
+                    Content="5" 
+                    Click="five"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="2"
+                    Grid.Row="1"
+                    Content="6" 
+                    Click="six"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="0"
+                    Grid.Row="2"
+                    Content="7" 
+                    Click="seven"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="1"
+                    Grid.Row="2"
+                    Content="8" 
+                    Click="eight"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="2"
+                    Grid.Row="2"
+                    Content="9" 
+                    Click="nine"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="0"
+                    Grid.Row="3"
+                    Content="a" 
+                    Click="a_click"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="1"
+                    Grid.Row="3"
+                    Content="b" 
+                    Click="b_click"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="2"
+                    Grid.Row="3"
+                    Content="c" 
+                    Click="c_click"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="0"
+                    Grid.Row="4"
+                    Content="d" 
+                    Click="d_click"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="1"
+                    Grid.Row="4"
+                    Content="e" 
+                    Click="e_click"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="2"
+                    Grid.Row="4"
+                    Content="f" 
+                    Click="f_click"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="0"
+                    Grid.Row="5"
+                    Content="clear" 
+                    Click="clear"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="1"
+                    Grid.Row="5"
+                    Content="0" 
+                    Click="zero"
+                    FontSize="30" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+            <Button Grid.Column="2"
+                    Grid.Row="5"
+                    Content="&#8592;" 
+                    Click="backspace"
+                    FontSize="40" 
+                    BorderThickness="0" 
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                    HorizontalAlignment="Stretch" 
+                    VerticalAlignment="Stretch" 
+                    Margin="2"/>
+        </Grid>
+    </Grid>
+</Page>

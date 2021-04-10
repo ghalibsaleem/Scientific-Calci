@@ -1,0 +1,238 @@
+﻿<Page
+    x:Class="Scientific_Calci.FunctionTablexaml"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Scientific_Calci"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="7*"/>
+            </Grid.RowDefinitions>
+            <TextBox  x:Name="ƒx"
+                  Text="ƒx"
+                  Grid.Row="0"
+                  Margin="10,10,10,10"
+                  TextWrapping="NoWrap"
+                  InputScope="Number"
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                  FontSize="25" 
+                  VerticalAlignment="Stretch"
+                  GotFocus="TextBox_GotFocus"
+                  LostFocus="TextBox_LostFocus"
+                  TextChanged="TextBox_TextChanged"/>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox x:Name="X1"
+                     Grid.Column="0"
+                     Text="X1"
+                     FontSize="25"
+                     InputScope="NumberFullWidth"
+                     TextAlignment="Center"
+                     VerticalAlignment="Stretch" 
+                     Margin="10"
+                     GotFocus="TextBox_GotFocus"
+                     LostFocus="TextBox_LostFocus"
+                     TextChanged="TextBox_TextChanged"/>
+                <TextBox x:Name="X2"
+                     Grid.Column="1" 
+                     Text="X2"
+                     InputScope="Number"
+                     TextAlignment="Center"
+                     FontSize="25"
+                     VerticalAlignment="Stretch" 
+                     Margin="10"
+                     GotFocus="TextBox_GotFocus"
+                     LostFocus="TextBox_LostFocus"
+                     TextChanged="TextBox_TextChanged"/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox x:Name="h"
+                     Grid.Column="0"
+                     Text="h"
+                     FontSize="25"
+                     TextAlignment="Center"
+                     InputScope="Number"
+                     VerticalAlignment="Stretch" 
+                     Margin="10"
+                     GotFocus="TextBox_GotFocus"
+                     LostFocus="TextBox_LostFocus"
+                     TextChanged="TextBox_TextChanged"/>
+                <Button Grid.Column="1" 
+                    Content="Calculate"
+                    Width="120"
+                    
+                    Height="65"
+                    HorizontalAlignment="Center" 
+                    VerticalAlignment="Center" 
+                    BorderThickness="0"
+                    Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}"
+                    Click="Calculate_click"/>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="3.05*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button BorderThickness="0"
+                        Content="Sin(X)"
+                            Click="sine"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Column="1"
+                        Content="Cos(X)"
+                            Click="cosine"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Column="2"
+                        Content="Tan(X)"
+                            Click="tangent"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+
+                    <Button BorderThickness="0"
+                        Grid.Row="0"
+                        Grid.Column="3"
+                        Content="Sinh(X)"
+                            Click="sine_hyperbolic"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="0"
+                        Grid.Column="4"
+                        Content="Cosh(X)"
+                            Click="cosine_hyperbolic"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="1"
+                        Grid.Column="0"
+                        Content="Tanh(X)"
+                            Click="tagnet_hyperbolic"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="1"
+                        Grid.Column="1"
+                        Content="log(X)"
+                            Click="log10"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="1"
+                        Grid.Column="2"
+                        Content="("
+                            Click="loge"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="1"
+                        Grid.Column="3"
+                        Content="+"
+                            Click="plus"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="1"
+                        Grid.Column="4"
+                        Content="-"
+                            Click="minus"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="2"
+                        Grid.Column="0"
+                        Content="*"
+                            Click="multiply"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="2"
+                        Grid.Column="1"
+                        Content="/" 
+                            Click="divide"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="2"
+                        Grid.Column="2"
+                        Content="^"
+                            Click="power"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="2"
+                        Grid.Column="3"
+                        Content=")"
+                            Click="modulus"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    <Button BorderThickness="0"
+                        Grid.Row="2"
+                        Grid.Column="4"
+                        Content="X" Click="xbutton"
+                        Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Stretch"/>
+                    
+                </Grid>
+                <ScrollViewer Grid.Row="1">
+                    <TextBlock  x:Name="output_table"
+                   TextAlignment="Left"
+                   Text="S.no.        X               ƒx"
+                   FontSize="25"
+                   ScrollViewer.VerticalScrollMode="Enabled"
+                   Margin="10"/>
+                </ScrollViewer>
+            </Grid>
+
+        </Grid>
+        
+    
+</Page>

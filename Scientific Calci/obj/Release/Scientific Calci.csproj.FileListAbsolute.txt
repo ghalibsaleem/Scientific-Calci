@@ -1,0 +1,32 @@
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\App.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\MainPage.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.xr.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.exe
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.pdb
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\resources.pri
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\AppxManifest.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\bin\Release\Scientific Calci.build.appxrecipe
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.g.i.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.g.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.i.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.g.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\XamlTypeInfo.g.cs
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.xaml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\App.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\XamlSaveStateFile.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.xaml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MainPage.xbf
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.exe
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\Scientific Calci.pdb
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\priconfig.xml.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\layout.resfiles.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\resources.resfiles.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\pri.resfiles.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\qualifiers.txt.intermediate
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ghalib\documents\visual studio 2013\Projects\Scientific Calci\Scientific Calci\obj\Release\ProjectArchitectures.txt
